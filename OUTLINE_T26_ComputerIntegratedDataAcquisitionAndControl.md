@@ -1,4 +1,4 @@
-# T26 Computer-Integrated Data Acquisition and Control
+# T26 Computer-Integrated Data Acquisition and Control - OUTLINE
     a	General concepts in signal conditioning for data acquisition and control
         01	Buffering
         02	Gain-and-offset
